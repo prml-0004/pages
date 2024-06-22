@@ -95,17 +95,16 @@ html_theme = 'sphinx_book_theme'
 
 html_static_path = ['_static']
 
-html_css_files = ['css/figures.css',
-                  'https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css',
+html_css_files = ['https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css',
                   'https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.min.css',
-                  'css/generic.css',
-                  'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css']
+                  'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css',
+                  'css/figures.css',
+                  'css/generic.css']
 
 html_js_files = ['https://code.jquery.com/jquery-3.7.0.min.js',
                  'https://viewer.diagrams.net/js/viewer-static.min.js',
                  'https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.pkgd.min.js',
-                 'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.min.js'
-                 ]
+                 'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/prism.min.js']
 
 html_theme_options = {
     'use_download_button': True,
