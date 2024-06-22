@@ -98,7 +98,6 @@ html_static_path = ['_static']
 html_css_files = ['css/figures.css',
                   'https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css',
                   'https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.min.css',
-                  'css/slides.css',
                   'css/generic.css',
                   'https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css']
 
