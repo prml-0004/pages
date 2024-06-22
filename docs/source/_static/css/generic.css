@@ -108,12 +108,20 @@ img {
 /* Table */
 table {
     border-collapse: collapse;
-    border-spacing: 5px;
+    border-spacing: 13px;
     border: 0;
-    margin-left: 35px
+    margin-left: 35px;
+    --pst-color-table-row-hover-bg: orange;
 }
 
 td,
 th {
     padding: 5px;
+}
+
+
+/* Blockquote */
+blockquote {
+    border-left: 0;
+    border-radius: 0;
 }
