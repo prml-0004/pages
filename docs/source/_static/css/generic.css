@@ -18,6 +18,10 @@ body {
     font-weight: lighter;
 }
 
+.admonition-title {
+    --pst-color-attention-bg: white;
+}
+
 
 /* Impacts: The bottom border of a table's header row, and hyperlinks*/
 html[data-theme="light"] {
@@ -57,10 +61,11 @@ ul.special {
 }
 
 .prev-next-area a .prev-next-info .prev-next-subtitle {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .prev-next-footer {
+    margin-top: 65px;
     margin-bottom: 65px;
 }
 
