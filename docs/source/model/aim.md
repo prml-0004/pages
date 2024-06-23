@@ -2,8 +2,12 @@
 
 # Model Aim
 
-> [!IMPORTANT]
-> The model's aim must match the deployed product's <a href="../project/project.html#deployment-goal">model output expectations</a>.
+:::{important}
+:class: dropdown
+
+The model's aim must match the deployed product's <a href="../project/project.html#deployment-goal">model output expectations</a>.
+:::
+
 
 <br>
 
