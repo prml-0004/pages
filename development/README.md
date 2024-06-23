@@ -58,13 +58,21 @@ sphinx-build -E -b html docs/source docs/build/html
     * [reStructuredText Card](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html)
 * [MyST](https://myst-parser.readthedocs.io/en/latest/index.html)
     * [Organising Content](https://myst-parser.readthedocs.io/en/latest/syntax/organising_content.html#using-toctree-to-include-other-documents-as-children)
+    * [configuration](https://myst-parser.readthedocs.io/en/latest/configuration.html)
+    * [cross-referencing](https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#)
 * [Extensions](https://myst-parser.readthedocs.io/en/latest/intro.html#extending-sphinx)
     * [mermaid](https://mermaid.js.org/intro/)
     * [tippy](https://sphinx-tippy.readthedocs.io/en/latest/)
+    * [issues](https://github.com/sloria/sphinx-issues)
 * Font
   * [inter](https://fonts.google.com/selection?query=inter)
   * [vollkorn](https://fonts.google.com/specimen/Vollkorn)
   * [embedding](https://fonts.google.com/selection/embed)
+* Badges
+  * [shields](https://shields.io) 
+  * [static shields badges](https://shields.io/badges/static-badge)
+  * [static shield badge example](https://img.shields.io/badge/issue-6511-green)
+  * [Shields Tutorial](https://github.com/badges/shields/blob/master/doc/TUTORIAL.md)
 
 
 <br>
