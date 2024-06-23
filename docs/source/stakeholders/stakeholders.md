@@ -19,6 +19,7 @@ Examples include:
 </ul>
 
 <br>
+<br>
 
 <details><summary><b>References</b></summary>
 <ol class="numeric">
@@ -27,7 +28,13 @@ Examples include:
 </ol>
 </details>
 
+
+<br>
+<br>
+
+
 ```{toctree}
+:numbered:
 :glob:
 
 *
