@@ -1,8 +1,14 @@
+[![Templates](https://img.shields.io/badge/project-entities-green)](https://github.com/orgs/prml-0004/projects/2/views/5)
+
 <br>
 
 # Problem Statement
 
-{issue}`1`
+<project-issue-item:67976980>
+
+<project-issue:1>
+
+<br>
 
 The agency is the custodian a large number of case documents, and the agency has to share its case documents due to
 
