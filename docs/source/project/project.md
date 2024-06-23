@@ -37,6 +37,7 @@ Footnotes[^deployment]
 <br>
 
 ```{toctree}
+:numbered:
 :glob:
 
 statement
