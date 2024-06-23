@@ -1,6 +1,14 @@
+[![Templates](https://img.shields.io/badge/project-entities-green)](https://github.com/orgs/prml-0004/projects/2/views/5)
+
 <br>
 
 # Deployment Goal
+
+<project-issue-item:67979016>
+
+<project-issue:3>
+
+<br>
 
 **What is the aim of the product’s model?**
 
