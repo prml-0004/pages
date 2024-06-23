@@ -1,6 +1,14 @@
+[![Templates](https://img.shields.io/badge/project-entities-green)](https://github.com/orgs/prml-0004/projects/2/views/5)
+
 <br>
 
 # Outcome Expectations & Underlying Aims
+
+<project-issue-item:67978921>
+
+<project-issue:2>
+
+<br>
 
 ## Outcome Expectations
 
