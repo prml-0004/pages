@@ -11,6 +11,12 @@ body {
 }
 
 
+/* Impacts: The bottom border of a table's header row, and hyperlinks*/
+html[data-theme="light"] {
+    --pst-color-primary: black;
+}
+
+
 /* List */
 li {
     margin-top:1px;
@@ -108,15 +114,24 @@ img {
 /* Table */
 table {
     border-collapse: collapse;
-    border-spacing: 13px;
-    border: 0;
+    border-spacing: 15px;
+    border: 0 black;
     margin-left: 35px;
     --pst-color-table-row-hover-bg: orange;
 }
 
-td,
+thead {
+    border-top: 0 solid black;
+    border-bottom: 0 solid black;
+}
+
 th {
-    padding: 5px;
+    padding: 9px;
+}
+
+td {
+    vertical-align: top;
+    padding: 9px;
 }
 
 
