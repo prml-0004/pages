@@ -8,6 +8,7 @@ The machine learning model, and the business & mathematical evaluation metrics.
 <br>
 
 ```{toctree}
+:numbered:
 :glob:
 
 aim
