@@ -10,6 +10,11 @@ body {
     font-family: Vollkorn, sans-serif;
 }
 
+.bd-sidebar-primary {
+    font-variant: small-caps;
+    font-weight: lighter;
+}
+
 
 /* Impacts: The bottom border of a table's header row, and hyperlinks*/
 html[data-theme="light"] {
@@ -139,4 +144,5 @@ td {
 blockquote {
     border-left: 0;
     border-radius: 0;
+    margin-left: 35px;
 }
