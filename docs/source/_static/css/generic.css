@@ -8,6 +8,9 @@ body {
 
 .caption-text {
     font-family: Vollkorn, sans-serif;
+    font-variant: small-caps;
+    font-weight: lighter;
+    font-size: large;
 }
 
 .bd-sidebar-primary {
