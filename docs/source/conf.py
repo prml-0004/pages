@@ -58,11 +58,32 @@ myst_enable_extensions = [
     'attrs_block'
 ]
 
+myst_url_schemes = {
+    "https": None,
+    "project-issue-item": {
+        "url": "https://github.com/orgs/prml-0004/projects/2/views/5?pane=issue&itemId={{path}}",
+        "title": "PROJECT ISSUE ITEM #{{path}}",
+        "classes": ["github"],
+    },
+    "project-issue": {
+        "url": "https://github.com/prml-0004/pages/issues/{{path}}",
+        "title": "PROJECT ISSUE #{{path}}",
+        "classes": ["github"],
+    }
+}
+
+
 
 '''
 https://myst-parser.readthedocs.io/en/latest/configuration.html
 '''
 myst_heading_anchors = 4
+
+
+'''
+Sphinx Issues
+'''
+issues_default_group_project = 'prml-0004/pages'
 
 
 '''
@@ -84,12 +105,6 @@ directories to ignore when looking for source files.
 This pattern also affects html_static_path and html_extra_path.
 '''
 exclude_patterns = []
-
-
-'''
-Issues
-'''
-issues_default_group_project = 'prml-0004/pages'
 
 
 '''
