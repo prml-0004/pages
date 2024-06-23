@@ -34,7 +34,7 @@ Examples include:
 
 
 ```{toctree}
-:numbered:
+:caption: TABLE OF CONTENTS
 :glob:
 
 *
