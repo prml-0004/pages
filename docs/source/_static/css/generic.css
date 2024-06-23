@@ -67,39 +67,39 @@ ul.special {
 
 /* Font */
 h1 {
-  display: block;
-  font-size: 1.63em;
-  font-variant: small-caps;
+    display: block;
+    font-size: 1.63em;
+    font-variant: small-caps;
     margin: 0.83em 0;
     font-weight: bold;
 }
 
 h2 {
-  display: block;
-  font-size: 1.27em;
-  text-transform: uppercase;
-  opacity: 0.90;
+    display: block;
+    font-size: 1.27em;
+    text-transform: uppercase;
+    opacity: 0.90;
     margin: 1em 0;
     font-weight: 900;
 }
 
 h3 {
-  display: block;
-  font-size: 1em;
+    display: block;
+    font-size: 1em;
     margin: 1.33em 0;
     font-weight: bold;
 }
 
 h4 {
-  display: block;
-  font-size: .83em;
+    display: block;
+    font-size: .83em;
     margin: 1.67em 0;
     font-weight: bold;
 }
 
 h5 {
-  display: block;
-  font-size: .67em;
+    display: block;
+    font-size: .67em;
     margin: 2.33em 0;
     font-weight: bold;
 }
