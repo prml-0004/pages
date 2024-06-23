@@ -37,7 +37,8 @@ extensions = [
     'sphinxcontrib.mermaid',
     "sphinx.ext.intersphinx",
     "sphinx.ext.viewcode",
-    'myst_parser'
+    'myst_parser',
+    'sphinx_issues'
 ]
 
 myst_enable_extensions = [
@@ -83,6 +84,12 @@ directories to ignore when looking for source files.
 This pattern also affects html_static_path and html_extra_path.
 '''
 exclude_patterns = []
+
+
+'''
+Issues
+'''
+issues_default_group_project = 'prml-0004/pages'
 
 
 '''
