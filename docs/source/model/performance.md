@@ -2,8 +2,11 @@
 
 # Performance Metrics
 
-> [!IMPORTANT]
-> These are the technical metrics.  The data scientists must explain the appropriate range of metrics to the business team, especially its domain experts.  The strengths and weaknesses of each metric must be outlined in detail.  Subsequently, the business team, domain experts, might suggest that one or more of the metrics are inappropriate due to certain reasons.
+:::{important}
+:class: dropdown
+
+These are the technical metrics.  The data scientists must explain the appropriate range of metrics to the business team, especially its domain experts.  The strengths and weaknesses of each metric must be outlined in detail.  Subsequently, the business team, domain experts, might suggest that one or more of the metrics are inappropriate due to certain reasons.
+:::
 
 
 ## The Metrics
