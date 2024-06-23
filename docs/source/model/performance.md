@@ -8,12 +8,12 @@
 These are the technical metrics.  The data scientists must explain the appropriate range of metrics to the business team, especially its domain experts.  The strengths and weaknesses of each metric must be outlined in detail.  Subsequently, the business team, domain experts, might suggest that one or more of the metrics are inappropriate due to certain reasons.
 :::
 
+<br>
+<br>
 
 ## The Metrics
 
 Thus far [^metrics]
-
-<br>
 
 <dl><div style="margin-bottom: 15px; margin-top: 10px;">Based on the <b>(a)</b> error matrix measures, i.e., True Positive, False Negative, False Positive, True Negative, and <b>(b)</b> a threshold defined as the maximum disaggregated intersection of precision & sensitivity, the expected criteria are: </div>
     <dt>Disaggregated Criteria</dt>
