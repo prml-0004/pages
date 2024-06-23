@@ -61,6 +61,10 @@ sphinx-build -E -b html docs/source docs/build/html
 * [Extensions](https://myst-parser.readthedocs.io/en/latest/intro.html#extending-sphinx)
     * [mermaid](https://mermaid.js.org/intro/)
     * [tippy](https://sphinx-tippy.readthedocs.io/en/latest/)
+* Font
+  * [inter](https://fonts.google.com/selection?query=inter)
+  * [vollkorn](https://fonts.google.com/specimen/Vollkorn)
+  * [embedding](https://fonts.google.com/selection/embed)
 
 
 <br>
