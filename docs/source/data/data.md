@@ -18,7 +18,7 @@ This chapter consists of a set of sections.  The sections, except the Natural La
 <br>
 
 ```{toctree}
-:caption: Content
+:numbered:
 :maxdepth: 1
 :glob:
 
