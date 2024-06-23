@@ -109,7 +109,7 @@ html_js_files = ['https://code.jquery.com/jquery-3.7.0.min.js',
 html_theme_options = {
     'use_download_button': True,
     'use_fullscreen_button': True,
-    'home_page_in_toc': True,
+    'home_page_in_toc': False,
     'show_navbar_depth': 1,
     'max_navbar_depth': 4,
     'collapse_navbar': False,
