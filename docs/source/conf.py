@@ -21,7 +21,7 @@ Basic
 project = 'Pages<br>'
 project_copyright = '2024, SF & AIU'
 author = 'SF & AIU'
-release = '0.0.1'
+release = 'v0.0.1<br>'
 
 
 '''
