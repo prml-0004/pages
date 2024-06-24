@@ -62,12 +62,12 @@ myst_url_schemes = {
     "https": None,
     "project-issue-item": {
         "url": "https://github.com/orgs/prml-0004/projects/2/views/5?pane=issue&itemId={{path}}",
-        "title": "PROJECT ISSUE ITEM #{{path}}",
+        "title": "ISSUE ITEM: #{{path}}",
         "classes": ["github"],
     },
     "project-issue": {
         "url": "https://github.com/prml-0004/pages/issues/{{path}}",
-        "title": "PROJECT ISSUE #{{path}}",
+        "title": "ISSUE: #{{path}}",
         "classes": ["github"],
     }
 }
