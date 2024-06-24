@@ -7,20 +7,31 @@ Pages
 
 .. container:: .large
 
-   Questions and notes for potential machine learning dependent business projects
-
+    The project details of the ...
 
 .. raw:: html
 
    <br>
 
+.. button-link:: introduction/introduction.html
+    :color: black
+    :shadow:
 
-.. container:: .buttons
+    Introduction
 
-   `Introduction <introduction/introduction.html>`_
-   `GitHub <https://github.com/prml-0004/pages>`_
+.. raw:: html
 
+   <br>
 
+.. button-link:: https://github.com/prml-0004/pages
+    :color: black
+    :shadow:
+
+    GitHub
+
+.. raw:: html
+
+   <br>
 
 .. toctree::
    :maxdepth: 2
