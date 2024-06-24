@@ -19,11 +19,13 @@ Project views:
 </table>
 
 <br>
+<br>
 
 Project issues:
 
-* <project-issue:1>: A specific issue
-* <project-issue-item:67976980>: The issue in project context
+* <project-issue:1>:<br>A specific issue
+
+* <project-issue-item:67976980>:<br>The issue in project context, login required.
 
 <br>
 <br>
