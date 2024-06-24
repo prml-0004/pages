@@ -1,5 +1,3 @@
-.. image:: _static/logo.svg
-
 
 Pages
 =====
@@ -7,31 +5,12 @@ Pages
 
 .. container:: .large
 
-    The project details of the ...
+    The project details of the entities redaction project.
 
 .. raw:: html
 
    <br>
 
-.. button-link:: introduction/introduction.html
-    :color: black
-    :shadow:
-
-    Introduction
-
-.. raw:: html
-
-   <br>
-
-.. button-link:: https://github.com/prml-0004/pages
-    :color: black
-    :shadow:
-
-    GitHub
-
-.. raw:: html
-
-   <br>
 
 .. toctree::
    :maxdepth: 2
