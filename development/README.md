@@ -42,6 +42,12 @@ Build pages via
 sphinx-build -E -b html docs/source docs/build/html
 ```
 
+Logo
+
+```markdown
+.. image:: _static/logo.svg
+```
+
 
 <br>
 <br>
