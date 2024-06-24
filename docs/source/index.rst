@@ -42,6 +42,11 @@ Pages
 
    stakeholders/stakeholders
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   standby/standby
 
 .. raw:: html
   <br>
