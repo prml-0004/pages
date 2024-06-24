@@ -9,28 +9,28 @@
 
 <br>
 
-## Outcome Expectations
+**Outcome Expectations**
 
-> * Near-real-time availability of redacted case documents.
-> * A reduction, near elimination, of redactions [*time cost*](https://desklog.io/blog/time-cost/).
+* A reduction, near elimination, of redactions [*time cost*](https://desklog.io/blog/time-cost/).
+* Approximately real-time availability of redacted case documents.
+
+<br>
+<br>
+
+**Underlying Aims**
+
+* The automatic redaction of case documents; objective $\rightarrow$ redaction time $\le 60$ seconds.
+* Redaction failure percentage per tag class $< 0.1%$
 
 <br>
 <br>
 
-## Underlying Aims
-
-> * Automate the redaction process
-> * Reduce redaction errors
-
-<br>
-
-The measurable objective/s per aim:
-
-* Automate the redaction process
-    * Reduce the time span of ... $< 2$ minutes
-
-* Reduce redaction errors
-    * Error rate ...
+<details><summary><b>Definitions</b></summary>
+<ul>
+    <li>Redaction Time: <i>redacted document Amazon S3 delivery time</i> - <i>the time the document was automatically picked-up from the raw documents Amazon S3 bucket</i> [Amazon S3: Amazon Simple Storage Service] </li>
+    <li>Failure Percentage: ...</li>
+</ul>
+</details>
 
 <br>
 
