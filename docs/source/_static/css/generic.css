@@ -1,22 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Vollkorn');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
 
 
 /* Preliminaries */
 body {
     font-family: Vollkorn, sans-serif;
+    font-size: medium;
+    color: black;
+    font-weight: 500;
 }
 
 .caption-text {
     font-family: Vollkorn, sans-serif;
-    font-variant: small-caps;
-    font-weight: lighter;
+    font-variant: all-petite-caps;
     font-size: large;
 }
 
 .bd-sidebar-primary {
     font-variant: small-caps;
-    font-weight: lighter;
 }
 
 .admonition-title {
@@ -40,7 +42,7 @@ li {
 }
 
 ul {
-    font-size: 15px;
+    font-size: medium;
 }
 
 ul.special {
