@@ -36,8 +36,7 @@
 
 <details><summary><b>References</b></summary>
 <ul>
-    <li><a href="https://desklog.io/blog/time-cost/" target="_blank">Time Cost</a></li>
-    <li><a href="https://www.activtrak.com/blog/time-cost/" target="_blank">Time Cost</a></li>
+    <li>Time Cost: <a href="https://desklog.io/blog/time-cost/" target="_blank">1</a>, <a href="https://www.activtrak.com/blog/time-cost/" target="_blank">2</a></li>
 </ul>
 </details>
 
