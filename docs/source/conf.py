@@ -18,7 +18,7 @@ https://www.sphinx-doc.org/en/master/usage/configuration.html#project-informatio
 '''
 Basic
 '''
-project = 'Pages'
+project = 'Pages<br>'
 project_copyright = '2024, SF & AIU'
 author = 'SF & AIU'
 release = '0.0.1'
@@ -111,6 +111,7 @@ exclude_patterns = []
 Options for HTML output
 https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 'style_nav_header_background': '#343131'
+html_logo = "_static/logo.svg"
 '''
 
 html_theme = 'sphinx_book_theme'
@@ -138,15 +139,4 @@ html_theme_options = {
     'toc_title': 'PAGES',
     'show_toc_level': 2,
     'sidebarwidth': 250
-}
-
-html_context = {
-    'landing_page': {
-        'menu': [
-            {'title': 'Introduction',
-             'url': ''},
-            {'title': 'Pages',
-             'url': ''}
-        ]
-    }
 }
