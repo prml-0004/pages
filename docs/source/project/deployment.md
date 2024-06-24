@@ -9,9 +9,24 @@
 
 <br>
 
+## Notes
+
 **What is the aim of the product’s model?**
 
-> The redaction of (a) personally identifiable information, (b) sensitive personal information, and (c) sensitive commercial/business/environment information.
+> The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.
+
+<br>
+
+**What will the deployed product present to the agency's members?**
+
+Please study the [booklet's] sample illustrations of
+
+* deployment goal: operations
+* deployment goal: users
+
+
+## Appendix
+
 
 <details><summary>The classes of information that must be redacted</summary>
 
@@ -19,13 +34,13 @@
 
 The acronyms in the table below are PII $\rightarrow$ Personally Identifiable Information, SPI $\rightarrow$ Sensitive Personal Information, and CBE $\rightarrow$ commercial, business, and environment information.
 
-<table style="width: 85%;">
+<table style="width: 65%;">
     <colgroup>
-        <col span="1" style="width: 37.0%;">
-        <col span="1" style="width: 8.5%;">
-        <col span="1" style="width: 8.5%;">
-        <col span="1" style="width: 8.5%;">
-        <col span="1" style="width: 8.5%;">
+        <col span="1" style="width: 17.0%;">
+        <col span="1" style="width: 3.5%;">
+        <col span="1" style="width: 3.5%;">
+        <col span="1" style="width: 3.5%;">
+        <col span="1" style="width: 3.5%;">
     </colgroup>
     <thead><tr style="text-align: left">
       <th>Item</th><th>Direct<br>PII</th><th>Indirect<br>PII</th><th>SPI</th><th>CBEI</th>
@@ -51,14 +66,7 @@ The acronyms in the table below are PII $\rightarrow$ Personally Identifiable In
 </details>
 
 
-<br>
 
-**What will the deployed product present to the agency's members?**
-
-Please study the [booklet's] sample illustrations of
-
-* deployment goal: operations
-* deployment goal: users
 
 <br>
 <br>
