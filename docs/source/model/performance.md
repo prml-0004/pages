@@ -9,18 +9,28 @@ These are the technical metrics.  The data scientists must explain the appropria
 :::
 
 <br>
+
+
+<project-issue-item:68005831>
+
+<project-issue:6>
+
 <br>
 
 ## The Metrics
 
-Thus far [^metrics]
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">In Progress</span>
 
-<dl><div style="margin-bottom: 15px; margin-top: 10px;">Based on the <b>(a)</b> error matrix measures, i.e., True Positive, False Negative, False Positive, True Negative, and <b>(b)</b> a threshold defined as the maximum disaggregated intersection of precision & sensitivity, the expected criteria are: </div>
-    <dt>Disaggregated Criteria</dt>
-    <dd>Precision > 0.9, Sensitivity (True Positive Rate) > 0.9, Specificity (True Negative Rate) > 0.9, Youden's J Statistic > 0.9, and False Positive Rate < 0.1. </dd>
-</dl>
+Based on the <b>(a)</b> error matrix measures, i.e., True Positive, False Negative, False Positive, True Negative, and <b>(b)</b> a threshold defined as either
 
-Per class ensure that each criterion metric value is within the defined range.
+- [ ] max$\bigl( {tr}_{c}\bigl[{precision}_{c} \cap {sensitivity}_{c}\bigr] \bigr)$
+- [ ] max$\bigl( {tr}_{c}\bigl[max(mcc_{c})\bigr] \bigr)$
+
+The expected criteria, per class, are: 
+
+> Precision > 0.9, Sensitivity (True Positive Rate) > 0.9, Specificity (True Negative Rate) > 0.9, Youden's J Statistic > 0.9, and False Positive Rate < 0.1. 
+
+Note, $tr$ denotes threshold, and $mcc$ denotes Matthews Correlation Coefficient.[^metrics]
 
 <br>
 
