@@ -13,7 +13,7 @@
 
 ### What is the aim of the product’s model?
 
-> The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.
+The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.  The appendix summarises the classes of redaction text.
 
 <br>
 <br>
@@ -27,6 +27,7 @@
 <iframe style="overflow:hidden; width:100%; height:470px; border:none; margin-left:35px"
 src="../../../../assets/deployment-goal-users.html"></iframe>
 
+<br>
 <br>
 
 *A plausible deployment goal: operations*
