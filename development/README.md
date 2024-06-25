@@ -111,6 +111,8 @@ Logo
 * [The Artificial Intelligence Playbook](https://www.machinelearningkeynote.com/the-ai-playbook)
 * [The feasibility, and economic viability, of projects](https://ppp.worldbank.org/public-private-partnership/assessing-project-feasibility-and-economic-viability)
 * [System Reliability, Availability, and Maintainability](https://sebokwiki.org/wiki/System_Reliability,_Availability,_and_Maintainability)
+* [Activity Diagrams](https://creately.com/guides/activity-diagram-tutorial/)
+* [Business Modelling](https://creately.com/guides/bpmn-vs-uml/)
 
 <br>
 <br>
