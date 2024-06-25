@@ -20,14 +20,21 @@
 
 **What will the deployed product present to the agency's members?**
 
-Please study the [booklet's] sample illustrations of
+
 
 * deployment goal: operations
-* deployment goal: users
 
 
-<iframe style="overflow:hidden; width:100%; height:330px; border:none; margin-left:65px"
+
+<br>
+
+
+<iframe style="overflow:hidden; width:100%; height:470px; border:none; margin-left:35px"
 src="../../../../assets/deployment-goal-users.html"></iframe>
+<figure>
+<figcaption>A plausible deployment goal: users
+</figcaption>
+</figure>
 
 
 <br>
