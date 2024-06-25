@@ -11,31 +11,28 @@
 
 ## Details
 
-**What is the aim of the product’s model?**
+### What is the aim of the product’s model?
 
 > The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.
 
 <br>
 <br>
 
-**What will the deployed product present to the agency's members?**
-
-
-
-* deployment goal: operations
-
-
+### What will the deployed product present to the agency's members?
 
 <br>
 
+*A plausible deployment goal: users*
 
 <iframe style="overflow:hidden; width:100%; height:470px; border:none; margin-left:35px"
 src="../../../../assets/deployment-goal-users.html"></iframe>
-<figure>
-<figcaption>A plausible deployment goal: users
-</figcaption>
-</figure>
 
+<br>
+
+*A plausible deployment goal: operations*
+
+<iframe style="overflow:hidden; width:100%; height:765px; border:none; margin-left:35px"
+src="../../../../assets/deployment-goal-operations.html"></iframe>
 
 <br>
 <br>
@@ -52,13 +49,13 @@ src="../../../../assets/deployment-goal-users.html"></iframe>
 
 The acronyms in the table below are PII $\rightarrow$ Personally Identifiable Information, SPI $\rightarrow$ Sensitive Personal Information, and CBE $\rightarrow$ commercial, business, and environment information.
 
-<table style="width: 65%;">
+<table style="width: 47.5%; font-size: 13px;">
     <colgroup>
-        <col span="1" style="width: 17.0%;">
-        <col span="1" style="width: 3.5%;">
-        <col span="1" style="width: 3.5%;">
-        <col span="1" style="width: 3.5%;">
-        <col span="1" style="width: 3.5%;">
+        <col span="1" style="width: 15.0%;">
+        <col span="1" style="width: 2.5%;">
+        <col span="1" style="width: 2.5%;">
+        <col span="1" style="width: 2.5%;">
+        <col span="1" style="width: 2.5%;">
     </colgroup>
     <thead><tr style="text-align: left">
       <th>Item</th><th>Direct<br>PII</th><th>Indirect<br>PII</th><th>SPI</th><th>CBEI</th>
