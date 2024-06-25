@@ -9,12 +9,13 @@
 
 <br>
 
-## Notes
+## Details
 
 **What is the aim of the product’s model?**
 
 > The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.
 
+<br>
 <br>
 
 **What will the deployed product present to the agency's members?**
@@ -24,6 +25,16 @@ Please study the [booklet's] sample illustrations of
 * deployment goal: operations
 * deployment goal: users
 
+
+<iframe style="overflow:hidden; width:100%; height:330px; border:none; margin-left:65px"
+src="../../../../assets/deployment-goal-users.html"></iframe>
+
+
+<br>
+<br>
+
+<br>
+<br>
 
 ## Appendix
 
