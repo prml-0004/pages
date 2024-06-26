@@ -43,6 +43,30 @@ Pages
    stakeholders/stakeholders
 
 .. toctree::
+   :maxdepth: 3
+   :hidden:
+
+   functional/functional
+
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+
+   nonfunctional/nonfunctional
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   constraints/constraints
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   risk/risk
+
+.. toctree::
    :maxdepth: 1
    :hidden:
 
