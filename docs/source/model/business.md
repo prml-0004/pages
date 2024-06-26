@@ -2,6 +2,8 @@
 
 # Business Metrics
 
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">Pending</span>
+
 :::{important}
 :class: dropdown
 
