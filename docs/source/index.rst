@@ -19,7 +19,7 @@ Pages
    introduction/introduction
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
 
    project/project
