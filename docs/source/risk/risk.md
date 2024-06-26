@@ -1,7 +1,12 @@
 # Risk
 
-> [!IMPORTANT]
-> Outline the system and model development risks.
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">In Progress</span>
+
+:::{important}
+:class: dropdown
+
+Outline the system and model development risks.
+:::
 
 <br>
 
@@ -9,7 +14,7 @@ Each risk must have a
 
 * Severity Score Estimates
 * Likelihood Score Estimates
-* Impact Level $= f\($ severity score estimate, likelihood score estimate $\)$
+* Impact Level $= f($ severity score estimate, likelihood score estimate $)$
 
 Remember to define the scores scales and impact levels.
 
