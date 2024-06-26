@@ -23,6 +23,7 @@ Note, the deployment goal is about integrating a machine learning model's output
 
 ```{toctree}
 :caption: TABLE OF CONTENTS
+:maxdepth: 2
 :glob:
 
 statement
