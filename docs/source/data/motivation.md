@@ -2,6 +2,8 @@
 
 # Motivation
 
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">Pending</span>
+
 <br>
 
 The motivation, or deliberations, that led to the collection and storage of a data set can impact its appropriateness 
