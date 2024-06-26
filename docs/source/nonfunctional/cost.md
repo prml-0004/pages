@@ -4,8 +4,12 @@
 
 {octicon}`comment;1em;sd-text-info` <span style="color: #276be9">In Progress</span>
 
-> [!IMPORTANT]
-> The technical feasibility and economic viability assessment depends on this section, and the estimates of this section depend on the thoroughness of all the sections of the project details.
+:::{important}
+:class: dropdown
+
+The technical feasibility and economic viability assessment depends on this section, and the estimates of this section depend on the thoroughness of all the sections of the project details.
+:::
+
 
 <br>
 
