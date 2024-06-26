@@ -13,7 +13,7 @@
 
 ### What is the aim of the product’s model?
 
-The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.  The appendix summarises the classes of redaction text.
+The redaction of (a) personally identifiable information, (b) sensitive personal information, and \(c\) sensitive commercial/business/environment information.  The [appendix](#appendix) summarises the classes of redaction text.
 
 <br>
 <br>
