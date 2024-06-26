@@ -36,6 +36,8 @@ Note, $tr$ denotes threshold, and $mcc$ denotes Matthews Correlation Coefficient
 
 ## The Model Card
 
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">Pending</span>
+
 This is for auditing purposes.  A model's model card summarises the artefacts of a model.
 
 <ul class="disc">
