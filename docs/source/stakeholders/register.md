@@ -2,6 +2,8 @@
 
 # Stakeholders Register
 
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">In Progress</span>
+
 The stakeholders register summarises stakeholder analysis, and the classifications of stakeholders [1].  It includes each stakeholder's name, project role, core role, and items pertinent to constructive stakeholder interactions [2].
 
 <br>
