@@ -1,7 +1,12 @@
 # Project Constraints
 
-> [!IMPORTANT]
-> Outline the project's constraints.
+{octicon}`comment;1em;sd-text-info` <span style="color: #276be9">In Progress</span>
+
+:::{important}
+:class: dropdown
+
+Outline the project's constraints.
+:::
 
 <br>
 
@@ -13,9 +18,7 @@ Note, the underpinning platform must be Amazon Web Services
 
 ## Solution Constraints
 
-The system must use Amazon S3 (Simple Storage Service) buckets for the storage of raw and redacted documents.  The buckets must/shall be
-* Set up in line with security best practices for <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html#security-best-practices-prevent" target="_blank">Amazon S3<a>
-* <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html#security-best-practices-detect" target="_blank">Continuously monitored</a>.
+The system must use Amazon S3 (Simple Storage Service) buckets for the storage of raw and redacted documents.  The buckets must/shall be (a) set up in line with security best practices for <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html#security-best-practices-prevent" target="_blank">Amazon S3<a>, and (b) <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html#security-best-practices-detect" target="_blank">continuously monitored</a>.
 
 <br>
 
