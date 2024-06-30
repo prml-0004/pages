@@ -1,24 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Vollkorn');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond');
-@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
 
 /* Preliminaries */
 body {
-    font-family: Vollkorn, sans-serif;
+    font-family: "Noto Serif", Vollkorn, sans-serif;
     font-size: medium;
     color: black;
     font-weight: 500;
 }
 
 .caption-text {
-    font-family: Vollkorn, sans-serif;
+    font-family: "Noto Serif", sans-serif;
     font-variant: all-petite-caps;
-    font-size: large;
 }
 
 .bd-sidebar-primary {
     font-variant: small-caps;
+    color: black;
+}
+
+.bd-links {
+    color: black;
+    --pst-color-text-muted: #000000;
 }
 
 .admonition-title {
@@ -42,7 +47,7 @@ li {
 }
 
 ul {
-    font-size: medium;
+    font-size: 15px;
 }
 
 ul.special {
@@ -51,6 +56,10 @@ ul.special {
     padding-top: 0;
     padding-bottom:1px;
     margin-left: 15px;
+}
+
+.toctree-wrapper {
+    font-size: 15px;
 }
 
 
@@ -94,7 +103,7 @@ h2 {
     display: block;
     font-size: 1.27em;
     text-transform: uppercase;
-    opacity: 0.90;
+    opacity: 0.60;
     margin: 1em 0;
     font-weight: 900;
 }
